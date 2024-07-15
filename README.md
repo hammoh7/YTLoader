@@ -1,6 +1,6 @@
 # YTLoader
-### Download any video on YouTube by just pasting the YouTube link
-
+### Download any video of YouTube by just pasting the YouTube link
+### Made only for Development purpose
 ## Get Started
 1. Clone the Repository
    ```
